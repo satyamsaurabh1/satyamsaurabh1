@@ -1,71 +1,81 @@
-## 👋 Hi there, I'm Satyam Saurabh  
+👋 Hi there, I'm Satyam Saurabh
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Full-Stack+Developer+in+Progress;AWS+Learner;Always+Learning+New+Things" /> </p>
+🚀 About Me
 
-🎓 **B.Tech Computer Science & Engineering (3rd Year)**  
-☁️ **Cloud Computing (AWS) & Frontend Development Enthusiast**  
+🎓 B.Tech CSE (3rd Year)
+☁️ Cloud Computing (AWS) & Full-Stack Development Enthusiast
+💡 Passionate about building scalable applications and learning new technologies
 
-I’m a motivated Computer Science student with a strong interest in **Cloud Computing and Frontend Development**, backed by a solid understanding of core computer science subjects. I enjoy building real-world web applications, working with cloud infrastructure, and continuously improving my technical skills through hands-on projects.
+☁️ Cloud Computing & AWS
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60"/> </p>
 
----
+AWS IAM (Users, Roles, Policies)
 
-## ☁️ Cloud Computing & AWS (Primary Focus)
-- **AWS IAM** – Users, Groups, Roles, Policies  
-- **EC2** – Instance launch, key pairs, security groups  
-- **VPC** – Subnets, route tables, internet gateway  
-- Cloud fundamentals & basic architecture  
-- Hands-on labs and academic cloud projects  
-- Security best practices & shared responsibility model  
+EC2, Security Groups, Key Pairs
 
----
+VPC (Subnets, Route Tables, Internet Gateway)
 
-## 🌐 Frontend Development (Primary Focus)
-- **HTML5** – Semantic markup, forms, accessibility  
-- **CSS3** – Flexbox, Grid, responsive & mobile-first design  
-- **JavaScript (ES6+)** – DOM manipulation, events, async/await  
-- Client-side validation & UI optimization  
-- Clean, user-focused interface design  
+Cloud Architecture & Security Basics
 
----
+🌐 Frontend Development
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/> </p>
 
-## 🧰 Tech Stack
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+HTML5, CSS3, JavaScript (ES6+)
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+Responsive Design (Flexbox, Grid)
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+DOM Manipulation & Async Handling
 
----
+⚙️ Backend Development
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> </p>
 
-## 💬 Ask Me About
-☁️ AWS Cloud fundamentals & hands-on labs  
-🌐 Frontend development & responsive UI design  
-💡 Data Structures & Algorithms (basics)  
-🖥️ Operating Systems & Computer Networks fundamentals  
-🧪 Software testing & SDLC basics  
+Node.js & Express.js (REST APIs)
 
----
+MongoDB & Mongoose (CRUD operations)
 
-## 👯 Looking to Collaborate On
-- Cloud-based web applications  
-- Frontend-focused projects  
-- Open-source & academic projects  
+MVC Architecture (basic)
 
----
+API Testing (Postman)
 
-## 📫 Connect With Me
-🌐 **Portfolio:** https://satyam-saurabh-portfolio.netlify.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/satyam-saurabh34/  
-📧 **Email:** satyamsaurabh34@gmail.com  
+Error Handling & JWT Basics
 
----
+🧰 Tech Stack
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> </p>
+🚀 Featured Projects
+🔹 CPU Scheduling Visualizer
 
-## ⚡ Fun Fact
-I believe **consistency beats talent**, and I enjoy learning how cloud systems scale real-world applications.
+Built an interactive web app to visualize CPU scheduling algorithms
+
+Implemented logic for FCFS, SJF, and Round Robin
+
+Focused on UI clarity and real-time updates
+
+🔗 https://cpu-scheduling.pages.dev/
+
+🔹 AWS Cloud Lab Project
+
+Created and configured VPC, subnets, and EC2 instances
+
+Implemented secure access using IAM roles and policies
+
+Gained hands-on experience in real cloud deployment
+
+🏆 Achievements & Learning
+
+Completed courses on Computer Networks and TCP/IP
+
+Hands-on AWS labs and academic cloud projects
+
+Actively improving problem-solving skills in DSA
+
+📈 Current Focus
+
+🚀 Strengthening Backend Development (Node.js + MongoDB)
+☁️ Deepening AWS and Cloud Architecture knowledge
+💻 Preparing for internships and technical interviews
+
+📫 Connect With Me
+<p align="center"> <a href="https://satyam-saurabh-portfolio.netlify.app"> <img src="https://img.icons8.com/color/48/domain.png"/> </a> <a href="https://www.linkedin.com/in/satyam-saurabh34/"> <img src="https://img.icons8.com/color/48/linkedin.png"/> </a> <a href="mailto:satyamsaurabh34@gmail.com"> <img src="https://img.icons8.com/color/48/gmail.png"/> </a> </p>
+⚡ Fun Fact
+
+🚀 Consistency beats talent — I improve every single day.

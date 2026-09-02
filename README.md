@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Full-Stack+Developer+in+Progress;AWS+Learner;Always+Learning+New+Things" /> </p>
 🚀 About Me
 
-🎓 B.Tech CSE (3rd Year)
+🎓 B.Tech CSE (4th Year)
 ☁️ Cloud Computing (AWS) & Full-Stack Development Enthusiast
 💡 Passionate about building scalable applications and learning new technologies
 
